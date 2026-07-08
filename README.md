@@ -153,7 +153,7 @@ sudo rpm -e wireless-presenter-desktop
 3. Move Wireless Presenter PC to the `Applications` folder.
 4. Open Wireless Presenter PC.
 
-If macOS blocks the app because it was downloaded from the internet, open `System Settings`, then `Privacy & Security`, and allow the app if you trust the official release.
+If macOS blocks the app because it was downloaded from the internet, open `System Settings`, then `Privacy & Security`, and allow the app.
 
 ### macOS Uninstall
 
