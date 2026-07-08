@@ -95,7 +95,7 @@ chmod +x wireless-presenter-desktop-linux.AppImage
 On Debian or Ubuntu based distributions:
 
 ```bash
-sudo apt install ./wireless-presenter-desktop-linux.deb
+sudo apt install ./wireless-presenter-desktop-linux-amd64.deb
 ```
 
 Then launch Wireless Presenter PC from the applications menu, or run:
@@ -109,13 +109,13 @@ wireless-presenter-desktop
 On Fedora, openSUSE, or compatible distributions:
 
 ```bash
-sudo dnf install ./wireless-presenter-desktop-linux.rpm
+sudo dnf install ./wireless-presenter-desktop-linux-x86_64.rpm
 ```
 
 or:
 
 ```bash
-sudo rpm -i wireless-presenter-desktop-linux.rpm
+sudo rpm -i wireless-presenter-desktop-linux-x86_64.rpm
 ```
 
 ### Linux Uninstall
